@@ -2,7 +2,7 @@
 
 <br>
 
->🌱 [PORTFOLIO]()
+>🌱 [PORTFOLIO](https://habitual-asterisk-be2.notion.site/7c73a2643691488797132c4d12aaa6ed)
 
 <br>
 
