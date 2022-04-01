@@ -27,13 +27,17 @@
 
 <br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eunhye_3)](https://solved.ac/eunhye_3)  
+
 ### :sparkles: GitHub stats ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhye3333&show_icons=true&theme=discord_old_blurple)
 <br>
 ### :sparkles: Top Langs ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhye3333&layout=compact&theme=discord_old_blurple)
 
-<br><br>
+<br>
+
 ## 📫 Contact me ##
 email: eunhye_3@naver.com  
 <br><br>
