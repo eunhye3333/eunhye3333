@@ -1,5 +1,7 @@
-### _Back-End Developer_
+![header](https://capsule-render.vercel.app/api?type=waving&color=B7F0B1&height=100&section=header&text=%20&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=45&duration=4000&pause=1000&color=B7F0B1&center=true&width=1000&height=80&lines=Welcome+to+Eunhye's+GitHub!%F0%9F%91%8B;%F0%9F%92%BB+Back-End+Developer)](https://git.io/typing-svg)
+ 
 <br>
 
 ## 📚 Skills ##
@@ -11,17 +13,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   
 
-
 <br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eunhye_3)](https://solved.ac/eunhye_3)  
 
 ### :sparkles: GitHub stats ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhye3333&show_icons=true&theme=discord_old_blurple)
-<br>
-### :sparkles: Top Langs ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhye3333&layout=compact&theme=discord_old_blurple)
 
 <br>
 
